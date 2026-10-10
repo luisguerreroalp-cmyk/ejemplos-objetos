@@ -112,3 +112,4 @@ function crearLogger(prefijo) {
 
 const log = crearLogger("[API]");
 log("arrancando");
+console.log("luis daniel")
